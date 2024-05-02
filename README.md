@@ -17,10 +17,10 @@ This repository hosts a Jupyter Notebook that dives into the analysis of the boo
 * ratings_1 to ratings_5: Number of ratings from 1 to 5 the book has received.
 
 ## Features
-This project includes:
-Data cleaning and preprocessing.
-Exploratory data analysis to uncover trends and insights.
-Predictive modeling to forecast future trends.
+* This project includes:
+* Data cleaning and preprocessing.
+* Exploratory data analysis to uncover trends and insights.
+* Predictive modeling to forecast future trends.
 
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
